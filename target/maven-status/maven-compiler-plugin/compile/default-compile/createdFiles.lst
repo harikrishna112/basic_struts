@@ -1,0 +1,7 @@
+mypack\actions\UserAction.class
+mypack\bean\User.class
+mypack\Login.class
+com\basics\login\Login.class
+com\basics\login\LoginDAO.class
+com\struts\basics\ValidateUser.class
+mypack\SignUpMember.class
